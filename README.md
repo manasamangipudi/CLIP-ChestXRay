@@ -1,8 +1,6 @@
-# Disease Detection in Chest X-rays using CLIP Features with Interpretable ROI Analysis
+# Disease Detection in Chest X-rays using CLIP Features with Interpretable ROI Analysis : [Project Paper](https://drive.google.com/file/d/1YP8r7tivzy--2AdZnKcgmh4MaL_Mi-Li/view?usp=share_link)
 
 This project implements a multi-modal deep learning approach for classifying chest X-rays as normal or diseased by leveraging both radiographic images and associated textual reports. The system uses CLIP (Contrastive Language-Image Pre-training) to learn joint visual-textual representations, followed by a classifier for predictions.
-
-[Paper](https://drive.google.com/file/d/1YP8r7tivzy--2AdZnKcgmh4MaL_Mi-Li/view?usp=share_link)
 
 
 ## Key Features
